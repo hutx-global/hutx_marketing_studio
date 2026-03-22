@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@sanity/vision": "^5.17.1",
     "sanity": "^5.17.1"
   }
 }
