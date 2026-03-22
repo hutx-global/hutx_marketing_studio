@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'HutX Marketing Studio',
 
-  projectId: 'YOUR_PROJECT_ID',
+  projectId: '5dq3yd0g',
   dataset: 'production',
 
   plugins: [structureTool(), visionTool()],
